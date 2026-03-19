@@ -208,10 +208,10 @@ Schmooze Mavericks (Tech Intern)  ─── Jun 2023 – Jul 2024
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aniketatole&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketatole&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ancodernova&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ancodernova&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketatole&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ancodernova&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -220,7 +220,7 @@ Schmooze Mavericks (Tech Intern)  ─── Jun 2023 – Jul 2024
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aniketatole&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ancodernova&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
 </div>
 
 ---
@@ -229,9 +229,9 @@ Schmooze Mavericks (Tech Intern)  ─── Jun 2023 – Jul 2024
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aniketatole/aniketatole/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aniketatole/aniketatole/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/aniketatole/aniketatole/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ancodernova/ancodernova/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ancodernova/ancodernova/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ancodernova/ancodernova/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
