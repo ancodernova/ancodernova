@@ -260,27 +260,6 @@ me.say_hi()
 
 ---
 
-## 🎯 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/ancodernova/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/ancodernova">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.codechef.com/users/ancodernova">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://www.hackerrank.com/ancodernova">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-</div>
 
 ---
 
@@ -300,14 +279,6 @@ me.say_hi()
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ---
-
-## 📡 Current Status
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=00FF9F&center=true&vCenter=true&width=700&lines=🟢+Available+for+SDE+%2F+AI+Engineering+roles;🔭+Building+production+LLM+pipelines+%40+scale;🧪+Exploring+Agentic+AI+%7C+RAG+%7C+Multi-Modal+Systems;📍+Navi+Mumbai+%7C+Open+to+Relocation+%2F+Remote" />
-
-</div>
 
 ---
 
