@@ -16,9 +16,9 @@
 
 <!-- Badges Row -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ancodernova&label=Profile+Views&color=00d4ff&style=flat-square" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ancodernova&label=Profile+Views&color=00d4ff&style=flat-square" />
   &nbsp;
-  <a href="https://www.linkedin.com/in/aniket-atole-040871265/" target="_blank">
+  <a href="https://www.linkedin.com/in/aniket-atole-040871265/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -26,12 +26,17 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/ancodernova" target="_blank">
+  <a href="https://github.com/ancodernova">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20To-Opportunities-00d4ff?style=flat-square&logo=checkmarx&logoColor=white" />
 </div>
+
+<br/>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ---
 
@@ -74,10 +79,11 @@ class AniketAtole:
 me = AniketAtole()
 me.say_hi()
 
-# Output:
-# I build systems that THINK, SCALE, and SHIP. 🚀
-# LLMs aren't magic — they're engineering problems. Let's solve them.
+# >>> I build systems that THINK, SCALE, and SHIP. 🚀
+# >>> LLMs aren't magic — they're engineering problems. Let's solve them.
 ```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ---
 
@@ -114,6 +120,8 @@ me.say_hi()
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 ---
 
 ## 🚀 Featured Projects
@@ -126,7 +134,7 @@ me.say_hi()
         <a href="#"><img src="https://img.shields.io/badge/🏆_National_Finalist-TBO_Voyage_3.0-7C3AED?style=for-the-badge" /></a>
       </div>
       <br/>
-      <p>End-to-end <strong>Demand → Campaign → Conversion</strong> engine. Converts real-time market signals into confidence-scored acquisition campaigns using ML forecasting + LLM automation. Scalable closed-loop growth system with dynamic itinerary optimization and WhatsApp/call bots.</p>
+      <p>End-to-end <strong>Demand → Campaign → Conversion</strong> engine. Real-time market signals → confidence-scored acquisition campaigns using ML forecasting + LLM automation. Context-aware WhatsApp/call bots for conversion.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=flat-square" />
@@ -140,7 +148,7 @@ me.say_hi()
         <a href="#"><img src="https://img.shields.io/badge/🏆_Top_24-Barclays_Hack--o--Hire-0A66C2?style=for-the-badge" /></a>
       </div>
       <br/>
-      <p><strong>Offline AI password analyzer</strong> — Decision Tree + local OLLaMA3 for strength scoring, crack-time estimation, AI-driven passphrase generation, PII detection, and bulk analysis. 100% offline, zero cloud dependency.</p>
+      <p><strong>Offline AI password analyzer</strong> — Decision Tree + local OLLaMA3 for strength scoring, crack-time estimation, AI passphrase generation, PII detection, and bulk analysis. Zero cloud dependency.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask" />
         <img src="https://img.shields.io/badge/Decision_Tree-FF4B4B?style=flat-square" />
@@ -156,7 +164,7 @@ me.say_hi()
         <a href="#"><img src="https://img.shields.io/badge/AI_Surveillance-System-00C851?style=for-the-badge" /></a>
       </div>
       <br/>
-      <p><strong>Real-time AI surveillance</strong> using ResNet + YOLOv8 + DeepSORT + dlib. Detects altercations, anomalies, and unauthorized entries with instant multi-channel alerts. Deployed for hostel security — dramatically reduced incident response times.</p>
+      <p><strong>Real-time AI surveillance</strong> — ResNet + YOLOv8 + DeepSORT + dlib detecting altercations, anomalies & unauthorized entries. Instant multi-channel alerts. Deployed for hostel security.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logoColor=black" />
         <img src="https://img.shields.io/badge/ResNet-FF6F00?style=flat-square" />
@@ -170,13 +178,15 @@ me.say_hi()
         <img src="https://img.shields.io/badge/Status-In_The_Lab-00d4ff?style=for-the-badge&logo=github-actions&logoColor=white" />
       </div>
       <br/>
-      <p align="center">Currently organizing <strong>HackFusion 2026</strong> as IEEE SPIT Chairperson — an international hackathon with <strong>2800+ registrations</strong>, research-driven innovation, and global collaboration. 🔥</p>
+      <p align="center">Organizing <strong>HackFusion 2026</strong> as IEEE SPIT Chairperson — an international hackathon with <strong>2800+ registrations</strong>. Also running <strong>CodeUncode</strong>, a national ICPC-style programming contest. 🔥</p>
       <p align="center">
         <img src="https://img.shields.io/badge/IEEE-SPIT_Chairperson-00B2FF?style=flat-square&logo=ieee&logoColor=white" />
       </p>
     </td>
   </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ---
 
@@ -193,11 +203,11 @@ me.say_hi()
 ║  │  └─ Dockerized on GCP | horizontal scaling | zero-downtime       ║
 ║  │                                                                   ║
 ║  ● Triblet — React Native Intern              Apr 2025 – Jun 2025   ║
-║  │  ├─ Responsive UIs for sports-tech startup                       ║
+║  │  ├─ Responsive UIs for fast-growing sports-tech startup          ║
 ║  │  └─ Resolved 389+ ESLint issues → clean production launch        ║
 ║  │                                                                   ║
 ║  ● Schmooze Mavericks — Tech Intern           Jun 2023 – Jul 2024   ║
-║  │  ├─ React Native UI redesign via engagement analytics            ║
+║  │  ├─ React Native UI redesign via user engagement analytics       ║
 ║  │  └─ Memoization strategies → 30%+ UI jank reduction              ║
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
@@ -209,7 +219,9 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=FFD700&center=true&vCenter=true&random=false&width=700&height=35&lines=🏆+TBO+Voyage+3.0+—+National+Finalist+%7C+Top+5+%2F+11%2C000%2B+teams;🏆+Barclays+Hack-o-Hire+2025+—+Finalist+%7C+Top+24;🥇+SE+Hack+(CSI)+—+AI%2FML+Domain+Winners;🥇+Hackanova+4.0+(National)+—+AI%2FML+Domain+Winners" alt="Achievements" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&pause=1200&color=FFD700&center=true&vCenter=true&random=false&width=750&height=35&lines=🏆+TBO+Voyage+3.0+—+National+Finalist+%7C+Top+5+%2F+11%2C000%2B+teams;🏆+Barclays+Hack-o-Hire+2025+—+Finalist+%7C+Top+24;🥇+SE+Hack+(CSI)+—+AI%2FML+Domain+Winners;🥇+Hackanova+4.0+(National)+—+AI%2FML+Domain+Winners" alt="Achievements" />
+
+<br/>
 
 | 🥇 Achievement | 📅 |
 |:---|:---:|
@@ -219,6 +231,8 @@ me.say_hi()
 | 🧠 **Hackanova 4.0** (National Level) — AI/ML Domain Winners | Feb 2025 |
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ---
 
@@ -238,49 +252,62 @@ me.say_hi()
 
 ---
 
-## 🔥 Activity Graph
+## 🔥 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ancodernova&theme=tokyo-night&hide_border=true&area=true&area_color=00d4ff&line=00d4ff&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ancodernova&theme=tokyo-night&hide_border=true&area=true&area_color=00d4ff&line=00d4ff&point=ffffff&bg_color=0d1117" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🎯 Coding Profiles
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ancodernova/ancodernova/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ancodernova/ancodernova/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ancodernova/ancodernova/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
+
+<a href="https://leetcode.com/ancodernova/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+&nbsp;
+<a href="https://codeforces.com/profile/ancodernova">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/ancodernova">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.hackerrank.com/ancodernova">
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+
 </div>
 
-> ⚠️ **Snake not showing?** You need to run a GitHub Action once to generate it. Create `.github/workflows/snake.yml` in your profile repo with this content:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{cron: "0 */12 * * *"}]
->   workflow_dispatch:
->   push: {branches: [main]}
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: ${{ github.repository_owner }}
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v4
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
+---
+
+## 🌐 Positions of Responsibility
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                                                                     │
+│  🔷 Chairperson — IEEE SPIT          Sep 2025 – Present            │
+│     ├─ Organized HackFusion 2026 (International | 2800+ reg.)      │
+│     ├─ Ran CodeUncode — National ICPC-style Programming Contest     │
+│     └─ Oversaw research initiatives & strategic chapter mgmt       │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+---
+
+## 📡 Current Status
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=00FF9F&center=true&vCenter=true&width=700&lines=🟢+Available+for+SDE+%2F+AI+Engineering+roles;🔭+Building+production+LLM+pipelines+%40+scale;🧪+Exploring+Agentic+AI+%7C+RAG+%7C+Multi-Modal+Systems;📍+Navi+Mumbai+%7C+Open+to+Relocation+%2F+Remote" />
+
+</div>
 
 ---
 
@@ -293,7 +320,7 @@ me.say_hi()
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2000&color=00D4FF&center=true&vCenter=true&width=600&lines=//+LLMs+aren't+magic+—+they're+engineering+problems.;//+Ship+fast.+Scale+hard.+Stay+curious.;//+01000010+01010101+01001001+01001100+01000100" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&pause=2500&color=00D4FF&center=true&vCenter=true&width=650&lines=//+LLMs+aren't+magic+—+they're+engineering+problems.;//+Ship+fast.+Scale+hard.+Stay+curious.;//+01000010+01010101+01001001+01001100+01000100;//+if+%28dreaming%29+%7B+keep_building%28%29%3B+%7D" />
 </div>
 
 ---
