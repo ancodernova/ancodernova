@@ -13,13 +13,13 @@
 <!-- Profile Views & Social Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=aniketatole&label=Profile+Views&color=7C3AED&style=flat-square" alt="profile views" />
-  <a href="https://www.linkedin.com/in/aniket-atole/" target="_blank">
+  <a href="https://www.linkedin.com/in/aniket-atole-040871265/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:aniketatole20@gmail.com">
+  <a href="mailto:ancodernova20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/aniketatole" target="_blank">
+  <a href="https://github.com/ancodernova" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
@@ -37,7 +37,6 @@ class AniketAtole:
         self.name        = "Aniket Atole"
         self.location    = "Navi Mumbai, Maharashtra 🇮🇳"
         self.education   = "B.Tech Computer Engineering @ SPIT (2023–Present)"
-        self.cgpa        = 7.0
         self.role        = "IEEE SPIT Chairperson ⚡"
 
         self.interests   = ["AI/ML", "Full-Stack Dev", "Backend Engineering",
